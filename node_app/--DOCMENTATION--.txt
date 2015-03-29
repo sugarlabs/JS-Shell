@@ -1,0 +1,5 @@
+--DOCMENTATION--
+cd app
+npm install express
+npm install cors
+nodejs main.js //[or] node main.js
